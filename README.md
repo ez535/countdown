@@ -12,4 +12,4 @@
   <li>LocalStorage</li>
 </ul>
 <h2>Создай таймер для своих целей!</h2>
-<p>https://ez535.github.io/countdown/</p>
+<a target:_blank>https://ez535.github.io/countdown/</a>
